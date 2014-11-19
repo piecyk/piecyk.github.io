@@ -13,10 +13,10 @@ transform and return data. In JavaScript world we have tools to write elegant an
 easily can be tested ( produce code coverage for our CI environment ).
 
 My stack for testing JavaScript ( not only AngularJS ):
-- GruntJS || GlupJS
-- KarmaJS
-- Jasmine || Mocha && Chai
-- PhantomJS || CasperJS
+- glup
+- karma
+- mocha && chai && sinon
+- phantomjs
 
 lest start to write some code...
 

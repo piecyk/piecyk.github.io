@@ -22,7 +22,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 add gist
 
-{% gist parkr/e31faa47b9d5846e26b2 %}
+{% gist piecyk/e31faa47b9d5846e26b2 %}
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
